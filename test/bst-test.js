@@ -64,5 +64,4 @@ describe('initializes with a root node', function() {
     assert.equal(tree.root.right.right.data, 14);
     assert.equal(tree.root.right.right.left.data, 12);
   });
-
 });
